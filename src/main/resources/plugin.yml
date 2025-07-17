@@ -1,0 +1,7 @@
+name: ItsResourcePack
+version: '1.0-SNAPSHOT'
+main: me.itsResourcePack.ItsResourcePack
+api-version: '1.8'
+commands:
+  rs:
+    description: a

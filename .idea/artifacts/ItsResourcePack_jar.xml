@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ItsResourcePack:jar">
+    <output-path>$USER_HOME$/OneDrive/Desktop/Nova pasta (7)/plugins</output-path>
+    <root id="archive" name="ItsResourcePack.jar">
+      <element id="module-output" name="ItsResourcePack" />
+    </root>
+  </artifact>
+</component>
