@@ -12,7 +12,7 @@ public final class ItsResourcePack extends JavaPlugin {
 
     private static ItsResourcePack plugin;
     public static ArrayList<String> resourcepacks = new ArrayList<>();
-
+//aaaaaa
     @Override
     public void onEnable() {
         plugin = this;
